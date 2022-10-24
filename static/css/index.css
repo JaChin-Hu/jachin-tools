@@ -1,3 +1,14 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+}
+
 .title {
   text-align: center;
+  background-color: blue;
 }
